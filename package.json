@@ -1,0 +1,25 @@
+{
+  "name": "@exponent/stopwatch",
+  "version": "0.0.1",
+  "description": "A simple timing module for JS for investigating performance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentjs/stopwatch.git"
+  },
+  "keywords": [
+    "timing",
+    "performance"
+  ],
+  "author": "exponent.team@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exponentjs/stopwatch/issues"
+  },
+  "homepage": "https://github.com/exponentjs/stopwatch#readme",
+  "dependencies": {
+  }
+}
